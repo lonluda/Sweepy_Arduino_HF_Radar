@@ -1,4 +1,4 @@
-# Sweepy_Arduino_HF_Radar
+# Sweepy_Arduino_Ultrasonic_Radar
 A simple high frequencies radar, Arduino based. The project uses a high-frequency HC-SR04 module to transmit a signal and receive the echo, thereby measuring the distance to the obstacle. 
 
 ### Components
